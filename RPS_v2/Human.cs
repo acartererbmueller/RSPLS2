@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace RPS_v2
 {
-    class Human
+    public class Human : Players
     {
+
+        //Member Variables (HAS A)
+
+        //Constructor
+
+        //Member Methods (CAN DO)
+
+
     }
 }

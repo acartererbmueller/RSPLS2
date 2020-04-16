@@ -6,7 +6,21 @@ using System.Threading.Tasks;
 
 namespace RPS_v2
 {
-    class Players
+    public class Players
     {
+
+        //Member Variables (HAS A)
+        public int score;
+        public string handGesture;
+
+
+
+        //Constructor
+
+        //Member Methods (CAN DO)
+
+
+
+
     }
 }
