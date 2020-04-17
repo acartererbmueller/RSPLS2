@@ -27,6 +27,8 @@ namespace RPS_v2
         //Member Methods (CAN DO)
 
         public abstract void MakeGesture();
+
+     
         
         
         

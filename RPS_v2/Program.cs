@@ -10,6 +10,8 @@ namespace RPS_v2
     {
         static void Main(string[] args)
         {
+            Console.ReadLine();
+
         }
     }
 }

@@ -14,12 +14,24 @@ namespace RPS_v2
         //Constructor
 
         //Member Methods (CAN DO)
+        
+
         public override void MakeGesture()
-        {
+        { 
             Console.WriteLine("Please choose a hand gesture!");
             Console.ReadLine();
+            List<string> handGesture = new List<string>();
+            Console.ReadLine(); 
 
-            foreach ()
+
+
+
+          
+            
+
+        
+
+            
 
         }
             
