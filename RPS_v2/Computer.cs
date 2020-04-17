@@ -15,7 +15,11 @@ namespace RPS_v2
         //Constructor
 
         //Member Methods (CAN DO)
-
-
+        public override void MakeGesture()
+        {
+            //Computer has to choose a gesture
+            //Use random to choose a gesture
+            //There needs to be a list to choose from!
+        }
     }
 }

@@ -14,7 +14,27 @@ namespace RPS_v2
         //Constructor
 
         //Member Methods (CAN DO)
+        public override void MakeGesture()
+        {
+            Console.WriteLine("Please choose a hand gesture!");
+            Console.ReadLine();
 
+            foreach ()
+
+        }
+            
+
+
+            //Prompt the human to enter a gesture
+            //Capture human input and save it as handGesture member variable.
+
+
+            //This is where validation would occur as a final touch
+            //Maybe use a switch case with only the allowed options
+
+
+            
+        
 
     }
 }
